@@ -1,4 +1,4 @@
-This project involves using the sales data of a pizza outlet for the year 2022 in order to gaininformation about the following key performance indicators:   
+This project involves using the sales data of a pizza outlet for the year 2022 in order to gain information about the following key performance indicators:   
                        <li> Total revenue generated in the year in dollars
                        <li> Total number of pizzas sold in the year
                        <li> Total number of orders received in the year
